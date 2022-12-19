@@ -8,7 +8,9 @@ I'm a passionate Frontend   Developer and Wordpress developer from Pakistan**
 
 What can i do?
 🌱 I’m Full Time Web developer.
+
 🌱 Learning React js and Node to enhance my skillset.
+
 💪 My strength in rapid responsive Designing making websites responsive using css mdeia quries ,Scss,Bootstrap.
 🎨 I can design amazing layout  BootStrap, tailwind Styled Componenets Sass.
 👯 My skills are in designing, development SEO Optimization and Wordpress and wordpress have used different wordpress plugins.
