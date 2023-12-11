@@ -18,6 +18,11 @@ What can i do?
 🔨 Convert graphic designs pds to html ,figma to html,css  to usable websites using frontend technologies .
 
 
+ Languages and Tools :
+JavaScript Type Script ReactJS NodeJS Express JS NPM Redis python c++ html css PHP  bootsrap flask heroku git github BitBucket BitBucket mongodb PostgreSQL mysql postman Docker linux android ubuntu
+
+
+
 Reach Afraz Hussain 
 <!---
 Afraz-Hussain/Afraz-Hussain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
