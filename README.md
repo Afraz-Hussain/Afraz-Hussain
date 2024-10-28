@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **frontend , Wordpress ,javascript,React.js,Nod.js,Css**
 
-- 📫 How to reach me **https://www.linkedin.com/in/muhmmad-afraz-hussain/**
+- 📫 How to reach me **www.linkedin.com/in/muhmmad-afraz-hussain**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
